@@ -1,2 +1,2 @@
 # AnnuaireContact
-Exercice final de la formation javascript Openclassroom
+Final exercice for OpenClassRoom examination
